@@ -8,7 +8,7 @@ I'm passionate about programming and web development, based in Spain. I love col
 
 ## Skills
 
-[![My Skills]([https://skillicons.dev/icons?i=js,ts,html,css,astro,svelte,tailwind,docker,linux,git,github,githubactions,ps,ae&perline=10](https://skillicons.dev/icons?i=js,ts,html,css,astro,svelte,tailwind,java,kotlin,mysql,sqlite,nginx,docker,linux,git,github,githubactions,ps,ae&perline=10))](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,astro,svelte,tailwind,java,kotlin,mysql,sqlite,nginx,docker,linux,git,github,githubactions,ps,ae&perline=10)](https://skillicons.dev)
 
 ## Hobbies
 
