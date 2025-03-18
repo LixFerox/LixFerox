@@ -1,3 +1,4 @@
+
 ## About me
 
 👋 Hi, I'm Jorge!
@@ -6,9 +7,11 @@ I'm passionate about programming and web development, based in Spain. I love col
 
 ✨ Always seeking new challenges and opportunities to learn and grow. ✨
 
+![](https://komarev.com/ghpvc/?username=LixFerox&abbreviated=true&style=flat&label=Profile%20views)
+
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,astro,svelte,tailwind,java,kotlin,mysql,sqlite,nginx,docker,linux,git,github,githubactions,ps,figma&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,astro,svelte,react,tailwind,java,kotlin,mysql,sqlite,nginx,docker,linux,git,github,githubactions,ps,figma&perline=10)](https://skillicons.dev)
 
 ## Hobbies
 
